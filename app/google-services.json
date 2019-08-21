@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136873653611",
+    "firebase_url": "https://hariketiga.firebaseio.com",
+    "project_id": "hariketiga",
+    "storage_bucket": "hariketiga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136873653611:android:8bb3563ceec39a62",
+        "android_client_info": {
+          "package_name": "com.mgajinugrh.hariketiga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136873653611-u48thgfantaner8eht9t30vqt2cda3bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mgajinugrh.hariketiga",
+            "certificate_hash": "2addc4816e33dda802fa3930d390a16b6536e132"
+          }
+        },
+        {
+          "client_id": "136873653611-dao0lkeph960scfn8oq7p31f5r4r61e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxxwaOAU_334VX2I72NGK1qW0V2eCvhKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136873653611-dao0lkeph960scfn8oq7p31f5r4r61e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

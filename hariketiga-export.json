@@ -1,0 +1,22 @@
+{
+  "listAsisten" : {
+    "-LmnxyHioY7_atP43AGc" : {
+      "namaAsisten" : "gdueh",
+      "tahunAngkatan" : "7991"
+    }
+  },
+  "users" : {
+    "51dZ1ns1xEgaXtnCBPRokAqkXVu2" : {
+      "email" : "purnomo@mail.com",
+      "nama" : "Purnomo Fitra"
+    },
+    "WdBxQwLQhQXzpPpLSMUPSB9iA5D2" : {
+      "email" : "chua@vina.com",
+      "nama" : "chua"
+    },
+    "i55j06mDscRUWKVVRG3KsktKt942" : {
+      "email" : "kodingkos@gmail.com",
+      "nama" : "Guruh"
+    }
+  }
+}
